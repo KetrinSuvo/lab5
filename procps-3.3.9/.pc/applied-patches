@@ -5,3 +5,4 @@ pmap_test
 libtool-update.diff
 /p_pid-enum.diff
 ignore_erofs.patch
+procps-3.2.8debianpatchespatch-pspatch-ps-SCHED_BATCH

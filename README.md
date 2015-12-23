@@ -31,3 +31,12 @@ return snprintf(outbuf, COLWID, "%ld", pp->nice);
 +}
 
 
+создаем patch.diff
+
+
+создаем debian-патч ( необходимо иметь в соседнем каталоге оригинальный тарболл)  dpkg-source --commit
+
+
+
+
+
